@@ -1,6 +1,6 @@
 hello
-<<<<<<< Updated upstream
+
 world
-=======
+
 come on
->>>>>>> Stashed changes
+
