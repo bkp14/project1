@@ -12,5 +12,7 @@
 	<classpathentry kind="src" path="Handson_4"/>
 	<classpathentry kind="src" path="Handson_5"/>
 	<classpathentry kind="src" path="Handson_6"/>
+	<classpathentry kind="src" path="Handson_7"/>
+	<classpathentry kind="src" path="Handson_9"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
